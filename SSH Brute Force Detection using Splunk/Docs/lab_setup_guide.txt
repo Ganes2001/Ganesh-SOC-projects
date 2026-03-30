@@ -1,0 +1,39 @@
+# 🔧 Lab Setup Guide
+
+## 🧱 Environment
+
+* Kali Linux (Attacker)
+* Ubuntu Linux (Target)
+* Splunk SIEM
+
+---
+
+## 🛠️ Tools Used
+
+* Hydra (Brute Force Tool)
+* Nmap (Port Scanner)
+* SSH Service (Target Access)
+* Splunk (Log Analysis)
+
+---
+
+## ⚙️ Setup Steps
+
+1. Enable SSH on Ubuntu
+2. Get target IP address
+3. Scan port using Nmap
+4. Perform brute force using Hydra
+5. Collect logs from /var/log/auth.log
+6. Analyze logs in Splunk
+
+---
+
+## 🎯 Results
+
+* SSH service detected on port 22
+* Multiple failed login attempts observed
+* Same IP repeatedly attacking
+* Brute force attack identified
+* Logs successfully analyzed in Splunk
+
+---
