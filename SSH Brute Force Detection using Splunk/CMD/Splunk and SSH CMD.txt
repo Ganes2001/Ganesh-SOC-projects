@@ -1,4 +1,4 @@
-## 🖥️ Commands Used
+##  Commands Used
 
 ```bash
 # Ubuntu (Target)
