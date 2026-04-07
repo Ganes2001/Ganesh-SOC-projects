@@ -1,6 +1,6 @@
-# 🔧 Lab Setup Guide
+ Lab Setup Guide
 
-## 🧱 Environment
+ Environment
 
 * Kali Linux (Attacker)
 * Ubuntu Linux (Target)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tools Used
+ Tools Used
 
 * Hydra (Brute Force Tool)
 * Nmap (Port Scanner)
@@ -17,7 +17,7 @@
 
 ---
 
-## ⚙️ Setup Steps
+ Setup Steps
 
 1. Enable SSH on Ubuntu
 2. Get target IP address
